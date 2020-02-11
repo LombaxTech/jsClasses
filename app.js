@@ -50,4 +50,11 @@ class Square {
     }
 }
 
+class RightTriangle {
+    constructor(base, height) {
+        this.base = base;
+        this.height = height;
+    }
+}
+
 

@@ -57,4 +57,4 @@ class RightTriangle {
     }
 }
 
-
+let firstRightTriangle = new RightTriangle(100, 100);
